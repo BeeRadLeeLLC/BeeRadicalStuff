@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BeeRadicalStuff
-- 👀 I’m interested in ... Dapp Technical Support
+- 👋 Hi, I’m @BeeRadicalStuff  -- https://github.com/BeeRadLeeLLC/CaravanUnChainedCapitol
+- - 👀 I’m interested in ... Dapp Technical Support
 - 🌱 I’m currently learning ... Blockchain Technology
 - 💞️ I’m looking to collaborate on ... NFTs
-- 📫 How to reach me ... BeeRadicalStuff.xyz
+- 📫 How to reach me ... https://blinuxwixtest1919.wixsite.com/beeradicalstore/copy-of-support
 
 
 <!---
